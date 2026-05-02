@@ -51,7 +51,7 @@ To analyze sales and profit data across regions, categories, and time to identif
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 * `Superstore_Sales_Analysis.ipynb`
 * `sales_analysis.csv`
